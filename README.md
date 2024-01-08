@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Marco Maier
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Davyd
 ===================================================================================================================================
 
-Software Engineer
+AI-Driven Full-Stack Developer
 -----------------
 
-I am a software engineer with 10 years of experience in full-stack development, machine learning, and cloud engineering. Throughout my career, I have developed a lot of scalable and user-friendly web applications, ML models, NLP models and computer vision applications. I also have 3 years of experience in crafting AI-driven chatbots tailored to diverse industry needs and expertise in integrating chatbots with various APIs to enhance functionality and user experience. I am also skilled in building various prediction models for data analysis.
+I am an AI-Driven Full-Stack Developer with 10 years of experience in full-stack development, machine learning, and cloud engineering. Throughout my career, I have developed a lot of scalable and user-friendly web applications, ML models, NLP models and computer vision applications. I also have 3 years of experience in crafting AI-driven chatbots tailored to diverse industry needs and expertise in integrating chatbots with various APIs to enhance functionality and user experience. I am also skilled in building various prediction models for data analysis.
 
 ### Skills
 
